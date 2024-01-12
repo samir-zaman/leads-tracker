@@ -1,2 +1,2 @@
 # leads-tracker
-Chrome extension that keeps track of sales leads by saving U
+Chrome extension that keeps track of sales leads by saving URLs
